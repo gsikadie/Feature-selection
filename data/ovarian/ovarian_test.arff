@@ -1,0 +1,20 @@
+@relation 'ovarian'
+@attribute g1 numeric
+@attribute g2 numeric
+@attribute g3 numeric
+@attribute g4 numeric
+@attribute 'Class' {'Normal','Cancer'}
+@data
+0.494626,0.263735,0.321841,0.220934,Normal
+0.35801,0.359836,0.362992,0.359615,Cancer
+0.353496,0.35619,0.354043,0.351089,Normal
+0.35826,0.352363,0.353678,0.358287,Normal
+0.356946,0.360949,0.361253,0.362204,Normal
+0.348446,0.349528,0.344998,0.345959,Cancer
+0.348446,0.349528,0.344998,0.345959,Normal
+0.385449,0.381061,0.384835,0.380925,Cancer
+
+
+
+
+
